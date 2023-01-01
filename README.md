@@ -1,9 +1,9 @@
 ## My name is Harrison Weisberg & I'm a Full Stack Engineer from Marina del Rey CA. 
-### I'm currently completing a full time impresive Software Engerneering bootcamp with General Assymbley. 
+### I'm currently completing a full time immersive Software Engineering bootcamp with General Assembly. 
 
-While I may be new to coding, my love an experince in the tech field has been a part of my life as far as I can remember. I'm thrilled to be able to contribute to the world of tech in new and exciting ways!
+While I may be new to coding, my love an experience in the tech field has been a part of my life as far as I can remember. I'm thrilled to be able to contribute to the world of tech in new and exciting ways!
 
-I most recently completed [MAMBA](https://harrison-snake.netlify.app/), a take on the classic game of Snake. Give it a play and tell me what you think! All feedback is greatly appricated. 
+I most recently completed [MAMBA](https://harrison-snake.netlify.app/), a take on the classic game of Snake. Give it a play and tell me what you think! All feedback is greatly appreciated. 
 
 My current skillset includes: 
 - HTML
