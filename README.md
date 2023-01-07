@@ -9,6 +9,9 @@ My current skillset includes:
 - HTML
 - CSS
 - JavaScript
+- Express
+- MongoDB
+- Mongoose
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hpweisberg&count_private=true&show_icons=true&theme=radical)](https://github.com/hpweisberg/github-readme-stats)
 
