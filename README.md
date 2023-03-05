@@ -1,5 +1,5 @@
 ## My name is Harrison Weisberg & I'm a Full Stack Engineer from Marina del Rey CA. 
-### I've graduated from General Assembly's immersive Software Engineering bootcamp in March of 2023. 
+### Graduated from General Assembly's immersive Software Engineering bootcamp in March of 2023. 
 
 While I may be new to coding, my love an experience in the tech field has been a part of my life as far as I can remember. I'm thrilled to be able to contribute to the world of tech in new and exciting ways!
 
