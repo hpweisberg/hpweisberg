@@ -4,6 +4,10 @@ Currently working on The Oppourtinity Project, a colaboration between the FDA an
 
 If you're a local to LA, click here for a surprise [MAMBA](https://harrison-snake.netlify.app/).
 
+When I'm not coding you'll find me riding in the canyons 🏍️ or at the movies 🎬.
+
+Fun fact! I haven't seen a movie trailer in over 5 years. I love going into a film with no extepctations.
+
 My skillset includes: 
 - ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,7 +28,6 @@ My skillset includes:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hpweisberg&count_private=true&show_icons=true&theme=radical)](https://github.com/hpweisberg/github-readme-stats)
 
-When I'm not coding you'll find me riding in the canyons 🏍️
 
 <!--
 **hpweisberg/hpweisberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
