@@ -1,4 +1,6 @@
-## My name is Harrison Weisberg & I'm a Full Stack Engineer from Marina del Rey CA. 
+## My name is Harrison Weisberg & I'm a film major turned Full Stack Engineer from Marina del Rey CA. 
+
+You obviously like to code if you're here, but do you also like The Price is Right? Check out my latest video at [Secondhand Bootcamp](https://youtu.be/BkPLer7uZC8)
 
 Currently working on The Oppourtinity Project, a colaboration between the FDA and US Census Bureau. 
 
